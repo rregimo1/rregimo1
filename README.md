@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 🤖
 
-<!--
-**rregimo1/rregimo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Enrolled Courses:**
 
-Here are some ideas to get you started:
+#### **Fall 2022:**
+>
+> - CS550 - Operating Systems
+> - CS571 - Programming Languages
+> - CS544 - Programming for the Web
+>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+### **Contact:**
+<rregimo1@binghamton.edu>
